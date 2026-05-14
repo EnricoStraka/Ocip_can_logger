@@ -202,7 +202,11 @@ dashboard
 automotive
 linux
 ```
+### Entwicklung unterstützen
 
+Wenn dir das Projekt gefällt oder es dir hilft, kannst du die Weiterentwicklung freiwillig per PayPal unterstützen:
+
+[Per PayPal unterstützen] paypal.me/EnricoStrakaOCIPms
 ---
 
 ## English
@@ -403,7 +407,11 @@ dashboard
 automotive
 linux
 ```
+### Support Development
 
+If you find this project useful and want to support further development, you can donate via PayPal:
+
+[Donate via PayPal] paypal.me/EnricoStrakaOCIPms
 ---
 
 ## License
