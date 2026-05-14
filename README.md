@@ -206,7 +206,7 @@ linux
 
 Wenn dir das Projekt gefällt oder es dir hilft, kannst du die Weiterentwicklung freiwillig per PayPal unterstützen:
 
-[Per PayPal unterstützen](paypal.me/EnricoStrakaOCIPms)
+[Per PayPal unterstützen] paypal.me/EnricoStrakaOCIPms
 ---
 
 ## English
@@ -411,7 +411,7 @@ linux
 
 If you find this project useful and want to support further development, you can donate via PayPal:
 
-[Donate via PayPal](paypal.me/EnricoStrakaOCIPms)
+[Donate via PayPal] paypal.me/EnricoStrakaOCIPms
 ---
 
 ## License
