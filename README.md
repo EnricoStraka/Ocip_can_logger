@@ -190,18 +190,25 @@ Dieses Projekt ist besonders für Embedded-Umgebungen interessant, weil:
 
 ```text
 can
+can-bus
 socketcan
 python
+python-can
 gtk4
-yocto
+linux
 embedded-linux
-can-bus
-logger
+yocto
+raspberry-pi
+automotive
 diagnostics
 dashboard
-automotive
-linux
-raspberry pi
+can-logger
+vehicle
+hmi
+touchscreen
+kiosk
+webdashboard
+embedded
 ```
 ### Entwicklung unterstützen
 
@@ -398,18 +405,25 @@ This project is especially well suited for embedded environments because:
 
 ```text
 can
+can-bus
 socketcan
 python
+python-can
 gtk4
-yocto
+linux
 embedded-linux
-can-bus
-logger
+yocto
+raspberry-pi
+automotive
 diagnostics
 dashboard
-automotive
-linux
-raspberry pi
+can-logger
+vehicle
+hmi
+touchscreen
+kiosk
+webdashboard
+embedded
 ```
 ### Support Development
 
