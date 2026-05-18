@@ -201,12 +201,15 @@ diagnostics
 dashboard
 automotive
 linux
+raspberry pi
 ```
 ### Entwicklung unterstützen
 
 Wenn dir das Projekt gefällt oder es dir hilft, kannst du die Weiterentwicklung freiwillig per PayPal unterstützen:
 
 [Per PayPal unterstützen] paypal.me/EnricoStrakaOCIPms
+
+weitere Infos unter https://ocipmechatronic.solutions/
 ---
 
 ## English
@@ -406,12 +409,15 @@ diagnostics
 dashboard
 automotive
 linux
+raspberry pi
 ```
 ### Support Development
 
 If you find this project useful and want to support further development, you can donate via PayPal:
 
 [Donate via PayPal] paypal.me/EnricoStrakaOCIPms
+
+more information https://ocipmechatronic.solutions/
 ---
 
 ## License
